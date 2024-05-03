@@ -15,7 +15,7 @@
     "url": "https://github.com/REXY4/whatsapp-api.git"
 },
   "name": "@rexy4/wa-api",
-  "version": "1.0.6",
+  "version": "1.0.7",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
